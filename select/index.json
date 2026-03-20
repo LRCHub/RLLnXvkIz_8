@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "M@STERPIECE",
+  "base_artist": "天海春香 (CV.中村繪里子)、如月千早 (CV.今井麻美)、星井美希 (CV.長谷川明子)、萩原雪歩 (CV.浅倉杏美)、高槻やよい (CV.仁後真耶子)、秋月律子 (CV.若林直美)、三浦あずさ (CV.たかはし智秋)、水瀬伊織 (CV.釘宮理恵)、菊地 真 (CV.平田宏美)、双海亜美 (CV.下田麻美)、双海真美 (CV.下田麻美)、四条貴音 (CV.原 由実)、我那覇 響 (CV.沼倉愛美)",
+  "createdAt": "2026-03-20T12:56:22.556909Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "M@STERPIECE(SHORT VERSION)",
+      "artist": "天海春香(CV:中村繪里子)/高槻やよい(CV:仁後真耶子)/星井美希(CV:長谷川明子)/他",
+      "has_synced": false,
+      "path": "select/01_M@STERPIECE(SHORT_VERSION)_天海春香(CV_中村繪里子)_高槻やよい(CV_仁後真耶子)_星井美希(CV_長谷川明子)_他.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "M@STERPIECE",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/02_M@STERPIECE_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "M@STERPIECE [ORT](映画主題歌賞)",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/03_M@STERPIECE_[ORT](映画主題歌賞)_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "M@STERPIECE",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/04_M@STERPIECE_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "M@STERPIECE [ORT]",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/05_M@STERPIECE_[ORT]_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "M@STERPIECE",
+      "artist": "Haruka Amami (CV: Eriko Nakamura)",
+      "has_synced": false,
+      "path": "select/06_M@STERPIECE_Haruka_Amami_(CV__Eriko_Nakamura).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "M@STERPIECE (MOVIE VERSION)",
+      "artist": "天海春香 (CV.中村繪里子), 星井美希 (CV.長谷川明子), 如月千早 (CV.今井麻美), 高槻やよい (CV.仁後真耶子), 萩原雪歩 (CV.浅倉杏美), 菊地真 (CV.平田宏美), 双海亜美/真美 (CV.下田麻美), 水瀬伊織 (CV.釘宮理恵), 三浦あずさ (CV.たかはし智秋), 四条貴音 (CV.原由実), 我那覇響 (CV.沼倉愛美)",
+      "has_synced": false,
+      "path": "select/07_M@STERPIECE_(MOVIE_VERSION)_天海春香_(CV.中村繪里子),_星井美希_(CV.長谷川明子),_如月千早_(CV.今井麻美),_高槻やよい_(CV.仁後真耶子),_萩原雪歩_(CV.浅倉杏.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "M@STERPIECE",
+      "artist": "天海春香(中村繪里子),如月千早(今井麻美),星井美希(長谷川明子),萩原雪歩(浅倉杏美),高槻やよい(仁後真耶子),秋月律子(若林直美),三浦あずさ(たかはし智秋),水瀬伊織(釘宮理恵),菊地真(平田宏美),双海亜美(下田麻美),双海真美(下田麻美),四条貴音(原由実),我那覇響(沼倉愛美)",
+      "has_synced": false,
+      "path": "select/pl_01_M@STERPIECE_天海春香(中村繪里子),如月千早(今井麻美),星井美希(長谷川明子),萩原雪歩(浅倉杏美),高槻やよい(仁後真耶子),秋月律子(若林直美),三浦あずさ(たかはし.txt"
+    }
+  ]
+}
